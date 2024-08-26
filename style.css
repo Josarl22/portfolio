@@ -1,0 +1,17 @@
+/* 
+Pallete Colors
+#000000 -> rgb(0, 0, 0)
+#0F6292 -> rgb(15, 98, 146)
+#16FF00 -> rgb(22, 255, 0)
+#FFED00 -> rgb(255, 237, 0) 
+*/
+html{
+    background-color: white;
+}
+h1{
+    color: #0F6292;
+}
+h2{
+
+}
+h3
