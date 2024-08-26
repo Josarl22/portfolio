@@ -1,17 +1,23 @@
 /* 
 Pallete Colors
-#000000 -> rgb(0, 0, 0)
-#0F6292 -> rgb(15, 98, 146)
-#16FF00 -> rgb(22, 255, 0)
-#FFED00 -> rgb(255, 237, 0) 
+#000000 -> rgb(0, 0, 0) -> Black
+#0F6292 -> rgb(15, 98, 146) -> Blue
+#16FF00 -> rgb(22, 255, 0) -> Neon Green
+#FFED00 -> rgb(255, 237, 0) -> Yellow
+#FFFFFF -> rgb(255, 255, 255) -> white
 */
 html{
-    background-color: white;
+    background-color: #000000;
 }
 h1{
     color: #0F6292;
 }
 h2{
-
+    color: #16FF00;
 }
-h3
+h3{
+    color: #FFED00;
+}
+p{
+    color: #FFFFFF;
+}
