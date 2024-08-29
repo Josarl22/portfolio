@@ -59,3 +59,15 @@ footer{
 footer p{
     text-align: center;
 }
+
+.screen {
+    border: 1px solid #FFED00;
+    border-radius: 8px;
+    max-width: 100%;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
