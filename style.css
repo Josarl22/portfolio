@@ -66,8 +66,10 @@ footer p{
     max-width: 100%;
 }
 
-.img {
-    display: flex;
+.badges-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
     justify-content: center;
     align-items: center;
 }
